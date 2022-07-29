@@ -1,0 +1,42 @@
+body,html {
+    margin: 0;
+    font: bold 14px/1.4 'Open Sans', arial, sans-serif;
+    background: #000;
+  }
+  ul { 
+    margin: 150px auto 0; 
+    padding: 0; 
+    list-style: none; 
+    display: table;
+    width: 600px;
+    text-align: center;
+  }
+  li { 
+    display: table-cell; 
+    position: relative; 
+    padding: 15px 0;
+  }
+  a {
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 0.15em;
+    display: inline-block;
+    padding: 15px 20px;
+    position: relative;
+  }
+  
+  .title1 {
+    color:#fff;
+    text-align: center;
+  }
+  
+  .bio {
+    color:#fff;
+    text-align: center;
+  }
+
+  .content {
+      text-align: center;
+      color:#fff;
+  }
